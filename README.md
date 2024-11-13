@@ -64,7 +64,7 @@
 
 💡 Fun Facts
 - 🍳 I love cooking and experimenting with new recipes!
-- 🧗 When I'm not coding, I'm probably climbing or working out.
+- 🧗 When I'm not coding, I'm probably climbing, working out or maybe skiing.
 - 🌍 Passionate about making a positive impact in my future tech teams.
 
 ---
