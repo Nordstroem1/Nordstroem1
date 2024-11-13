@@ -15,7 +15,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/johan-nordstr%C3%B6m-14471928a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-nordstr%C3%B6m-14471928a/)
 
 ---
 
@@ -39,9 +39,8 @@
 ---
 
 ### 🚀 Projects & Contributions
-- 🌟 **BoostApp**:🌟 A microservices-based project focused on health and performance tracking. I developed and maintained four distinct Web APIs, utilizing Azure Service Bus for seamless communication between services. During the development process, we leveraged Azure DevOps for CI/CD pipelines and collaboration, and deployed the application on Azure Portal for secure, scalable hosting.
+- 🌟 **BoostApp**:🌟 A microservices-based project focused on health and performance tracking. I developed and maintained four distinct Web APIs, utilizing Azure Service Bus for seamless communication between services. During the development process, we leveraged Azure DevOps for CI/CD pipelines and collaboration, and deployed the application on Azure Portal for secure, scalable hosting. I worked in an intern-Team so I have some experience with working with testers and frontend in an agile way.
   - **Tech Stack**: .NET, Azure Table Storage, xUnit, SQL,CosmosDb
-  - [View Repository](https://github.com/yourusername/Leaderboard-Api)
 
 ---
 
