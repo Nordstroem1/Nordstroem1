@@ -44,17 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🎯 Goals for 2025
 - ✨ **Advance as a .NET Developer**
 - 👥 **Gain Scrum Master Experience**
