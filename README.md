@@ -28,7 +28,7 @@
 
 #### Frontend Development
 - 🔹 **Languages**: HTML, CSS, JavaScript
-- 🔹 **Frameworks**: Bootstrap
+- 🔹 **Frameworks**: Bootstrap, React
 - 🔹 **Styling**: Flexbox, Grid
 
 #### Database & Backend
