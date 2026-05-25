@@ -12,12 +12,6 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
 </p>
 
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-nordstr%C3%B6m-14471928a/)
-
----
 
 ### 🛠 Tech Stack
 #### .NET Development
@@ -29,12 +23,10 @@
 #### Frontend Development
 - 🔹 **Languages**: HTML, CSS, JavaScript
 - 🔹 **Frameworks**: Bootstrap, React
-- 🔹 **Styling**: Flexbox, Grid
 
 #### Database & Backend
 - 🔹 **Database Languages**: SQL
 - 🔹 **Technologies**: SQL Server, Azure Table Storage
-- 🔹 **Data Management**: LINQ, SQL Queries, Stored Procedures
 
 ---
 
@@ -44,20 +36,4 @@
 
 ---
 
-### 🎯 Goals for 2025
-- ✨ **Advance as a .NET Developer**
-- 👥 **Gain Scrum Master Experience**
-- 💡 **Learn Docker**
 
----
-
-💡 Fun Facts
-- 🍳 I love cooking and experimenting with new recipes!
-- 🧗 When I'm not coding, I'm probably climbing, working out or maybe skiing.
-- 🌍 Passionate about making a positive impact in my future tech teams.
-
----
-
->*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-<p align="center">Thank you for now! 😊</p>
