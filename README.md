@@ -1,8 +1,4 @@
 <!-- GitHub Profile README Template -->
-<
-  <em>.NET Developer</em>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Developer-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
