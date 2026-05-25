@@ -1,7 +1,6 @@
 <!-- GitHub Profile README Template -->
-<h1 align="center">👋 Hello & welcome, I'm Johan! 👨‍💻</h1>
-<p align="center">
-  <em>.NET Developer | Aspiring Scrum Master | Tech Enthusiast</em>
+<
+  <em>.NET Developer</em>
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@
 </p>
 
 
-### 🛠 Tech Stack
+### Stack
 #### .NET Development
 - 🔹 **Languages**: C#, ASP.NET, .NET Core
 - 🔹 **Frameworks**: ASP.NET MVC, Entity Framework
@@ -27,13 +26,4 @@
 #### Database & Backend
 - 🔹 **Database Languages**: SQL
 - 🔹 **Technologies**: SQL Server, Azure Table Storage
-
----
-
-### 🚀 Projects & Contributions
-- 🌟 **BoostApp**:🌟 A microservices-based project focused on health and performance tracking. I developed and maintained four distinct Web APIs, utilizing Azure Service Bus for seamless communication between services. During the development process, we leveraged Azure DevOps for CI/CD pipelines and collaboration, and deployed the application on Azure Portal for secure, scalable hosting. I worked in an intern-Team so I have some experience with working with testers and frontend in an agile way.
-  - **Tech Stack**: .NET, Azure Table Storage, xUnit, SQL,CosmosDb
-
----
-
 
